@@ -5,7 +5,7 @@ import { BACKGROUND_IMG_URL } from '../utils/constants'
 import GptMovieSuggestion from './GptMovieSuggestion'
 const SearchGPT = () => {
   return (
-   <div className='pt-[20%] '>
+   <div >
      <div className='fixed -z-10 '>
         <img src={BACKGROUND_IMG_URL} alt="bg-img" />
         </div>
