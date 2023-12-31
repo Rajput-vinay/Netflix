@@ -26,4 +26,4 @@ export const API_OPTION =  {
 ];
 
 
-export const OPEN_AI_KEY = "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"
+export const OPEN_AI_KEY = "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"
