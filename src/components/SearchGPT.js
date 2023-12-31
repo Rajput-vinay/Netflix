@@ -6,7 +6,7 @@ import GptMovieSuggestion from './GptMovieSuggestion'
 const SearchGPT = () => {
   return (
    <div className='pt-[20%] '>
-     <div className='fixed -z-10 bg-cover'>
+     <div className='fixed -z-10 '>
         <img src={BACKGROUND_IMG_URL} alt="bg-img" />
         </div>
       <SearchBar />
